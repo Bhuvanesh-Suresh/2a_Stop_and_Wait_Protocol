@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
-### Name: Sanjay K
-### Reg No: 212223220094
+### Name: Bhuvanesh S R
+### Reg No: 212223240017
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
